@@ -1,4 +1,4 @@
 # My Movies
-Projeto criado para conhecer um pouco do React. (Durante a Pós Graduação em Arquitetura de Software Distribuído).
+Projeto desenvolvido durante meu curso de Pós Graduação em Arquitetura de Software Distribuído para conhecer mais do React.
 
 **React, React Router, Axios**.
